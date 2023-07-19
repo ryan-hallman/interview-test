@@ -7,7 +7,7 @@ contents of the messages are to be saved to files by design and will not change 
 
 
 ## Assignment
-- Plan on spending approximately one hour maximum on this project.
+- Plan on spending approximately **four hours** on this project.
 - Determine what is feasible to complete in that time frame.
 - Create a list of tasks that you would need to complete to get the application to a working state that cannot be completed in the time frame.
 - Review the code and implement the most important features that you can in the time frame with a prioritization
